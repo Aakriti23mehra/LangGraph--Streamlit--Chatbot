@@ -1,4 +1,4 @@
-LangGraph Streamlit Chatbot
+LangGraph Chatbot
 A chatbot application built with LangGraph for conversation management and Streamlit for the web interfa
 This chatbot can have conversations with users and remembers the chat history using a local database. It's designed to be simple to run and easy to understand.
 Files in this project
